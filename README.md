@@ -44,18 +44,6 @@ source venv/bin/activate  # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📊 Uso
-
-- **Análise exploratória**: Veja os notebooks em `notebooks/`
-- **Processamento**: Use os módulos em `src/data/`
-- **Simulações**: Execute modelos em `src/models/`
-
-## 🧪 Testes
-
-```bash
-pytest tests/
-```
-
 ## 📝 Documentação
 
 Consulte a documentação detalhada em `docs/`
